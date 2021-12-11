@@ -7,6 +7,7 @@
 - [Gitee](https://gitee.com/chenfyu)
 - [![000000](https://pub.idqqimg.com/qconn/wpa/button/button_111.gif)](http://wpa.qq.com/msgrd?v=3&uin=000000&site=qq&menu=yes)
 - [![技术交流群](https://pub.idqqimg.com/wpa/images/group.png)](https://jq.qq.com/?_wv=1027&k=WpwjYRwE)
+点击链接加入群聊【k8s运维交流群】：https://jq.qq.com/?_wv=1027&k=7SxpgzTx
 
 ***
 ![chenf's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnchef&show_icons=true&theme=tokyonight)
